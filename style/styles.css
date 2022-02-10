@@ -63,6 +63,11 @@ header li a {
   text-decoration: none;
 }
 
+.nav__logo {
+  padding-left: 80px;
+}
+
+
 .nav__btn-left {
   background-color: white;
   border-width: 1px;
@@ -89,6 +94,8 @@ header li a {
 .nav__right {
   padding-left: 30px;
 }
+
+
 
 /* HEADER SECTION */
 
